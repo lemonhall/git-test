@@ -2,5 +2,10 @@
 I love git, yeah!
 I add one line again.
 Hello World
+<<<<<<< HEAD
 This is a test.
 
+=======
+FAQ
+gongjingying's fool
+>>>>>>> 4d64599469026171762282a9b91b29e7326ba170
