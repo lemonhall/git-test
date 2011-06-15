@@ -1,3 +1,4 @@
+
 /* 我的 */
 The wiki.php.net box was compromised and the attackers were able to collect wiki account credentials. No other machines in the php.net infrastructure appear to have been affected. Our biggest concern is, of course, the integrity of our source code. We did an extensive code audit and looked at every commit since 5.3.5 to make sure that no stolen accounts were used to inject anything malicious. Nothing was found. The compromised machine has been wiped and we are forcing a password change for all svn accounts.
 
@@ -9,3 +10,6 @@ The wiki.php.net box was compromised and the attackers were able to collect wiki
 
 巴萨妖童领衔罗马5大目标 800万敲定阿根廷前腰
 罗马现阶段引援的五大目标曝光，萨斯菲尔德前腰阿尔瓦雷斯加盟在即，博扬及斯特克伦博格是另外两大重点，而两位来自巴萨B队的潜力股蒙托亚及索里亚诺也有望追随恩师恩里克。
+
+
+
