@@ -1,0 +1,4 @@
+git checkout develop#@zhaoyupei
+git blame -L 5,5 foo#@zhaoyupei
+git checkout develop
+git blame -L 5,5 foo
