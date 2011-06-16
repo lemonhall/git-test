@@ -1,0 +1,2 @@
+git checkout develop
+git blame -L 5,5 foo
