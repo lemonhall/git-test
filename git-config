@@ -1,0 +1,17 @@
+user.name=Peter Zhang
+user.email=zhangxingnan@admaster.com.cn
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+remote.origin.url=git@github.com:admaster/git-test.git
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+gitflow.branch.master=master
+gitflow.branch.develop=develop
+gitflow.prefix.feature=feature/
+gitflow.prefix.release=release/
+gitflow.prefix.hotfix=hotfix/
+gitflow.prefix.support=support/
+gitflow.prefix.versiontag=
