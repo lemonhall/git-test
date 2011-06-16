@@ -1,86 +1,10 @@
-2b3c61016236235cf58939230a08650032fd1678 Merge remote branch 'origin/develop' into develop
-d6dd10bbc3a59a65d33db0a6cc5b1eb8df447af8 prepare to push
-289c8161566010ac69571ef6fa6af6238c7f646e add git-who
-220e2a4452facb42e271c5490bd3d1a3b14b1292 Merge branch 'master' of github.com:admaster/git-test into develop
-ed24a72cf6a922d5e5e409ad2662cdafdb5da49e Merge branch 'develop' of github.com:admaster/git-test into develop
-84c6bf00f471ff2275642ffceaa74d535c6086a6 再一次解决冲突
-88ecd5e542157edee3beb88672d53f5974ac5b00 try to merge ..
-fd34e6a59ae757a7de947a966165ae01d10c738c add #@sunhaoyan
-78e5d77e0505d90a2abe9f7983a60a6e11a81c47 add file git-who
-68dca20e4cd741e92313a24aa47059adfb23cf7f Merge branch 'master' of github.com:admaster/git-test into develop
-9e8f83e86e7f5674235b9a5ccfef7a1db4ad731f 解决master分支冲突
-c0ffb9eeb648f9a3d95d9ed1b670a22b7f9924e3 解决develop 下foo文件冲突
-5ada5cd4a8c9cabde197c1b331775c9830eb35cb 解决冲突
-de304b7b2c9327e448b46519ceaf26ec91b4f80c 解决foo文件冲突
-7cd5a5c94951ddace7124ed39b9852fe3f60a980 merge from master
-268bb25751b5c58e5803b64fe1885e54f8297772 add exercise 3
-9e2c41b94db941c5c8b5ef4f28722e35b66cd45b Merge branch 'develop' of github.com:admaster/git-test into develop
-85433f5a5f0542ed49fc816ad0929d6909557873 Merge branch 'feature/demo' into develop
-333eb0e43aff29b024fac47f5a2d13ea50e378c5 yet another line for non fast forward
-75a75babc9ee67fd1601a3f415a92e67de52308c try to non-fast-forward
-08dd6743b4bbc7dd947a14c92862d6e5c1242d80 Merge branch 'develop', remote branch 'origin/develop' into develop
-cf0f73d70a5bffdf8a027596497b92b0019228d1 添加了一条新闻记录
-46cb9de4b597b8f425a98856d78bdabe4721f311 gongjingying add news on git-second
-609ed50316706c826979f46830ba865728ddfb60 Merge branch 'develop' of github.com:admaster/git-test into develop
-f2b10c16e68942a359d6ed274e8d6a5e27c1ecba process conflicts
-de585add9a4ef819879a66269d4657b0a966d289 合并代码
-3943705817744c4abb965954af03d2cebe6fcc12 添加新闻文件
-4d444171a41052cdda568a1d3de6a99cc10e66de add a big news
-3f3b68d101566fdfd98e189ea7b55a0cc31632af important notice
-f31be0c6da8a5e500341f3d43f1f29389f9e9500 merge from peter
-396eb4084c7124384cdd8cd55319d4576df6d39f Merge branch 'develop' of github.com:admaster/git-test into develop
-99c1a59e70485868d740f584b3650f7604cf7c8c Merge remote branch 'origin/develop' into develop
-3a4cf5b6ac42b158eaee573f9cbe154b16661eec Merge from master
-8e82325cdcb13040edcc3837eea5a7f64648f6ad add one line
-89a88add7856f733b5bc45bfa4da43e63739adf8 add message
-29481a697418593d3846f2821ec090972cecde80 Merge branch 'develop' of github.com:admaster/git-test into develop
+6e68fb41dfa02133cc55e0c594a7eb0660fac6b8 make a mark at the end of the only line
+8c8c2218f91ae4679d1956a20814a1a85c7a5084 annotate vs blame
+4b6c63f062945e18faaf6b7abc2fc0ff38b61483 添加 git-log 文件。
+52834586ad49e8c6474c20a835d1342380d56f66 Merge branch 'master' of github.com:admaster/git-test into wangkeyi
+2b2c56fee439da338670ffcbe7b9abb03ebe51a3 Merge branch 'develop' of github.com:admaster/git-test into wangkeyi
+11865dcade7c65651bca2dbc3a562211bc00ac91 添加配置文件信息。
 c34bc32ea1f8b5059c21e9163c5561f0f4a1de14 Merge branch 'develop' of github.com:admaster/git-test into develop
-f518bcd4978715e78bbb0bf162474ffdc4c50a42 merge keyi
-29e547da702334454104394038533c4574bf01f5 merge
 0041a855e7a553fbdaebb542f97703681cd207f6 换一句slogan.
 01184b16bc490413a8c88c3ca12f2d8fd438121b Merge remote branch 'origin/develop' into develop
-2be183df9b9460a8b21fb8bab56f6310f96d1427 Merge branch 'develop', remote branch 'origin/develop' into develop Nothing changed,but show conflict. Conflicts: 	git-rocks
-e1d7ca5b4235ff611b1497a823cd8981850e09b9 This is for feature branch.
-a54cf41fe74d77c5c0e74539a23d7b1fa83174da lihe send something
-57acad5be3e141755b26c8f1f58a8bda0c6931e8 Merge branch 'develop' of github.com:admaster/git-test into develop
-c80e4eef633356670ac8ca74a56ab69ad8286a9a gong conflict solved
-72ef8b7fffa6b97004b9ffd5e535117f3520beb0 gongjingying modifies name and email
-19732b138ee7b16cee74736fed4fa973cf2bfa6a Merge branch 'master' of github.com:admaster/git-test into develop
-f990957bccdb8411e2a6bebc6c35fb0444676e48 Merge branch 'master' of github.com:admaster/git-test
-055a04f71820663ef586858ee1ad60620ce0a585 The first homework.and append something.
-38113e0555e2e474a25cb20d4f6458cdc33ccd0a 解决冲突
-b7dafba5064dad2e4338b078b6962bb37cdaa98d add news
-6de374273e82862c2107cfeb8f370e579f863d96 add file git-second
-f97cbdf2723756a0099cea75257e4dd489ca72d9 add news
-45cf9d7cc585d05183a75b6fc3bb024cbaec9bd2 发表重要讲话解决冲突后的应该位于NBA新闻后面
-7fbc86810f09a617a11d4dab819646815b3da812 解决冲突
-39febfc051538626ef13f2975ae947fa77763954 add new file git-rocks to git-second feature
-70ed0423a4ae0ea8d3dafeed61823bd5a3df6565 解决冲突
-5029915bfd54f58878c21eb4a52810bf7ab0f9c2 nba热点新闻
-3ca6abd8a4cdb60ea430898aa651a2f99dfd6a3e add exercise 2
-bde938f765bec02f0b34b5e65e07a6820b9a8f9e 修改姓名
-e0ecbf927ce344bb8845a7afe7b7cb71393e94dc 张保良的练习
-80c8f63565140c10367f656f4b575d82ff3f624c Merge branch 'master' of github.com:admaster/git-test
-b2a19698c6d10fe964fe9740b3671f9e828d9e27 	modified:   foo
-1993f52bc82c99efcfca044d05fea9caebdc7f07 zhaoyp modify FAQ line
-33fcb3a78cdf878501e7d7e7211c0f23e5d2d1e8 in zhangjx
-cc6ec0fa05fb283e8ed69dbee5d67cc514d51fd5 Merge branch 'master' of github.com:admaster/git-test
-42cc3fc7d5acda3047bbae8643b3f339c1790d06 in aa
-c50be714f225705068ead764e3fd30d16ead1298 Test.
-3b92d70a13d6ec3863b449ff64d2dc2682f6e747 try merge
-f6e78f71593a2be7c19c87d7f93145ba9d7e7e34 Merge branch 'master' of github.com:admaster/git-test
-3d60a0c95eba6f3d43c8d1da29e4c75e7f40cb6e Merged
-02a020a125945f2db83cb60ededfe7caccc67497 Comment from Hudie
-939766ffbb5b2f305f4a81fa6e87255f18a6f101 lihe add somthing
-4dd89a6e7e64baa06d1d77a7edb3ff1103da3aad Added one comment
-6d389841853599f741124a7728361006a7a9dbee This is a test.
-4d64599469026171762282a9b91b29e7326ba170 gjy modified
-ebe65c8795269ee71b162472cac59d466ad109fa zhaoyp add faq in foo
-ef9bec97b97733e56f5c7525cf52dc749e8dc5c2 hello world
-65610286a79b939185528bca28c748d6114ce0f6 again add line
-cc44b12767adff3097c82ab6944d9708713bfbb7 test author:redstone
 7283c1e08fa1219ea9036a7d661e5e8c2fd9d41b 第一次提交。
-a67cf52d4de72468fe2598cd149cf381370661df add exercise 1
-75a5a89061173e892999e98400e8ef78970849fc add some tips about TODO
-f449664bcbfefd939ce356dd8a3820d1df2d1833 add quick start
-84cd5f7a560473853fe3536cdccdc9f1af9e9d2c initial commit
