@@ -1,9 +1,8 @@
-6e68fb41dfa02133cc55e0c594a7eb0660fac6b8 make a mark at the end of the only line
-8c8c2218f91ae4679d1956a20814a1a85c7a5084 annotate vs blame
-4b6c63f062945e18faaf6b7abc2fc0ff38b61483 添加 git-log 文件。
-52834586ad49e8c6474c20a835d1342380d56f66 Merge branch 'master' of github.com:admaster/git-test into wangkeyi
-2b2c56fee439da338670ffcbe7b9abb03ebe51a3 Merge branch 'develop' of github.com:admaster/git-test into wangkeyi
-11865dcade7c65651bca2dbc3a562211bc00ac91 添加配置文件信息。
+2b3c61016236235cf58939230a08650032fd1678 Merge remote branch 'origin/develop' into develop
+220e2a4452facb42e271c5490bd3d1a3b14b1292 Merge branch 'master' of github.com:admaster/git-test into develop
+ed24a72cf6a922d5e5e409ad2662cdafdb5da49e Merge branch 'develop' of github.com:admaster/git-test into develop
+88ecd5e542157edee3beb88672d53f5974ac5b00 try to merge ..
+68dca20e4cd741e92313a24aa47059adfb23cf7f Merge branch 'master' of github.com:admaster/git-test into develop
 c34bc32ea1f8b5059c21e9163c5561f0f4a1de14 Merge branch 'develop' of github.com:admaster/git-test into develop
 0041a855e7a553fbdaebb542f97703681cd207f6 换一句slogan.
 01184b16bc490413a8c88c3ca12f2d8fd438121b Merge remote branch 'origin/develop' into develop
