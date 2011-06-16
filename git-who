@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 1993f52b (yupei Zhao 2011-06-15 10:57:43 +0800 5) FAQ+13
-=======
-git checkout develop#@zhaoyupei
-git blame -L 5,5 foo#@zhaoyupei
->>>>>>> 6a08437... edit git-who
