@@ -2,4 +2,5 @@ git blame -L 5,5 foo  #@zhangjiaxiang
 git blame -L 5,5 -b develop foo#@lihe
 git blame develop foo -L 5, +1 #@sunhaoyan
 git annotate -L5,5 develop foo  #@wangkeyi
+1993f52b (yupei Zhao 2011-06-15 10:57:43 +0800 5) FAQ+13#@zhaoyupei
 git blame -L 5 foo
