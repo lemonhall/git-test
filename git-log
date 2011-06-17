@@ -19,9 +19,31 @@ f8ed2e4 添加git-who文件
 9e8f83e 解决master分支冲突
 c0ffb9e 解决develop 下foo文件冲突
 de304b7 解决foo文件冲突
+a3983f7 cherry-pick 冲突
+255dfd5 解决冲突
+4616a12 解决冲突
+b40a5d6 解决冲突
+64b24f6 change again
+ce018b6 change
+7eaf57d 丢了#@zhaoyupei
+33a3be3 解决冲突，发现新问题
+95e65b0 重新cherry-pick git who文件
+9cbc27e edit again again
+31d14c3 重新修改git-who
+b02a132 重新修改git-who
+8e491bb 修改git who 之前的内容错了
+e7ecc8f 解决冲突，合并zhaoyupei分支下的git-who
+6a08437 edit git-who
+f8ed2e4 添加git-who文件
+12b0e60 添加git-log文件，记录tonsh的本地develop分支log
+9e8f83e 解决master分支冲突
+c0ffb9e 解决develop 下foo文件冲突
+de304b7 解决foo文件冲突
 ba90c46 添加git-config配置文件
 45cf9d7 发表重要讲话解决冲突后的应该位于NBA新闻后面
 7fbc868 解决冲突
 39febfc add new file git-rocks to git-second feature
 70ed042 解决冲突
+1993f52 zhaoyp modify FAQ line
+ebe65c8 zhaoyp add faq in foo
 
