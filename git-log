@@ -36,40 +36,20 @@ c80e4ee gong conflict solved
 19732b1 Merge branch 'master' of github.com:admaster/git-test into develop
 f990957 Merge branch 'master' of github.com:admaster/git-test
 055a04f The first homework.and append something.
-38113e0 解决冲突
-b7dafba add news
-6de3742 add file git-second
-f97cbdf add news
-45cf9d7 发表重要讲话解决冲突后的应该位于NBA新闻后面
-7fbc868 解决冲突
-39febfc add new file git-rocks to git-second feature
-70ed042 解决冲突
-5029915 nba热点新闻
-3ca6abd add exercise 2
-bde938f 修改姓名
-e0ecbf9 张保良的练习
-80c8f63 Merge branch 'master' of github.com:admaster/git-test
-b2a1969         modified:   foo
-1993f52 zhaoyp modify FAQ line
-33fcb3a in zhangjx
-cc6ec0f Merge branch 'master' of github.com:admaster/git-test
-42cc3fc in aa
-c50be71 Test.
-3b92d70 try merge
-f6e78f7 Merge branch 'master' of github.com:admaster/git-test
-3d60a0c Merged
-02a020a Comment from Hudie
-939766f lihe add somthing
-4dd89a6 Added one comment
-6d38984 This is a test.
-4d64599 gjy modified
-ebe65c8 zhaoyp add faq in foo
-ef9bec9 hello world
-6561028 again add line
-cc44b12 test author:redstone
-7283c1e 第一次提交。
-a67cf52 add exercise 1
-75a5a89 add some tips about TODO
-f449664 add quick start
-84cd5f7 initial commit
 
+5ada5cd 解决冲突
+89a88ad add message
+29481a6 Merge branch 'develop' of github.com:admaster/git-test into develop
+19732b1 Merge branch 'master' of github.com:admaster/git-test into develop
+38113e0 解决冲突
+6de3742 add file git-second
+ef9bec9 hello world
+
+cc6bd1c merge git-who in zhangjx
+54662f2 merge git-who in zhangjx
+58fa928 modify git-who in zhangjx
+5e05db5 apply develop
+b7dafba add news
+f97cbdf add news
+33fcb3a in zhangjx
+42cc3fc in aa
