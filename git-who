@@ -1,6 +1,5 @@
 git blame -L 5,5 develop foo#@gongjingying
 #@gongjingying
-1993f52b (yupei Zhao 2011-06-15 10:57:43 +0800 5) FAQ+13 #@sunhaoyan
 git blame -L 5,5 foo  #@zhangjiaxiang
 git blame -L 5,5 -b develop foo#@lihe
 git annotate -L5,5 develop foo  #@wangkeyi
