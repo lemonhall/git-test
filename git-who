@@ -1,2 +1,2 @@
-git blame -L 5,5 foo#@[gongjingying]
+git blame -L 5,5 develop foo#@[gongjingying]
 #@[gongjingying]
