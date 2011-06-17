@@ -1,3 +1,5 @@
-git blame -L 5,+1 foo  #@zhangjiaxiang
-1993f52b (yupei Zhao 2011-06-15 10:57:43 +0800 5) FAQ+13 #@zhangjiaxiang
+git blame -L 5,5 foo  #@zhangjiaxiang
+git blame -L 5,5 -b develop foo#@lihe
 1993f52b (yupei Zhao 2011-06-15 10:57:43 +0800 5) FAQ+13 #@sunhaoyan
+git annotate -L5,5 develop foo  #@wangkeyi
+git blame -L 5 foo
