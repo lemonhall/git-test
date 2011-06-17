@@ -1,1 +1,1 @@
-git blame -L 5 -b develop  foo
+git blame -L 5 -b develop  foo #@[zhangbaoliang]
