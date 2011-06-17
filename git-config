@@ -1,19 +1,8 @@
-<<<<<<< HEAD
-er.name=tonsh
-user.email=zhaoyupei@admaster.com.cn
-user.name=tonsh
-user.name=tonsh
-github.user=tonsh
-github.token=61b5b36fbe7ada77128ee0831db6df27
-=======
-user.name=sunhaoyan
-user.email=sunhaoyan@admaster.com.cn
 user.name=Haoyan
 color.diff=auto
 color.status=auto
 color.branch=auto
 core.editor=vim
->>>>>>> 2775470559828e11d001829e6838390d9abd021b
 core.repositoryformatversion=0
 core.filemode=true
 core.bare=false
@@ -22,12 +11,7 @@ remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
 remote.origin.url=git@github.com:admaster/git-test.git
 branch.master.remote=origin
 branch.master.merge=refs/heads/master
-<<<<<<< HEAD
-user.name=Tonsh Zhao
-user.email=zhaoyupei@admaster.com.cn
-=======
 user.name=Haoyan Sun
->>>>>>> 2775470559828e11d001829e6838390d9abd021b
 gitflow.branch.master=master
 gitflow.branch.develop=develop
 gitflow.prefix.feature=feature/
