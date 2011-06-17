@@ -5,3 +5,4 @@ git blame -L 5,5 -b develop foo#@lihe
 git annotate -L5,5 develop foo  #@wangkeyi
 git blame -L 5 foo
 git blame develop foo -L 5, +1 #@sunhaoyan
+git blame -L 5,5 -b develop foo#@zhaoyupei
