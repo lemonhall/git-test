@@ -1,10 +1,3 @@
-user.name=sunhaoyan
-user.email=sunhaoyan@admaster.com.cn
-user.name=Haoyan
-color.diff=auto
-color.status=auto
-color.branch=auto
-core.editor=vim
 core.repositoryformatversion=0
 core.filemode=true
 core.bare=false
@@ -13,7 +6,8 @@ remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
 remote.origin.url=git@github.com:admaster/git-test.git
 branch.master.remote=origin
 branch.master.merge=refs/heads/master
-user.name=Haoyan Sun
+user.name=Hudie
+user.email=ludanfeng@admaster.com.cn
 gitflow.branch.master=master
 gitflow.branch.develop=develop
 gitflow.prefix.feature=feature/
@@ -21,4 +15,3 @@ gitflow.prefix.release=release/
 gitflow.prefix.hotfix=hotfix/
 gitflow.prefix.support=support/
 gitflow.prefix.versiontag=
-
