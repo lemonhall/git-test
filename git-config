@@ -1,0 +1,22 @@
+user.name=Haoyan
+color.diff=auto
+color.status=auto
+color.branch=auto
+core.editor=vim
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+remote.origin.url=git@github.com:admaster/git-test.git
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+user.name=Haoyan Sun
+gitflow.branch.master=master
+gitflow.branch.develop=develop
+gitflow.prefix.feature=feature/
+gitflow.prefix.release=release/
+gitflow.prefix.hotfix=hotfix/
+gitflow.prefix.support=support/
+gitflow.prefix.versiontag=
+

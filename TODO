@@ -21,3 +21,27 @@
 8. 将这个分支推送到版本服务器
 9. 发送邮件给Mars，标题是"已完成GIT练习2"，邮件正文要包含远程分支列表。
 
+练习3
+
+1. 继续上次的作业来进行，首先大家要将远程的版本库pull回到本地。
+2. 切换到自己名字的分支(参考练习2的第6条)。
+3. 将自己在develop分支的提交记录存放到git-log文件中，形式如下(oneline)
+9e2c41b Merge branch 'develop' of github.com:admaster/git-test into develop
+85433f5 Merge branch 'feature/demo' into develop
+333eb0e yet another line for non fast forward
+75a75ba try to non-fast-forward
+396eb40 Merge branch 'develop' of github.com:admaster/git-test into develop
+3a4cf5b Merge from master
+3ca6abd add exercise 2
+a67cf52 add exercise 1
+75a5a89 add some tips about TODO
+f449664 add quick start
+84cd5f7 initial commit
+
+4. 提交一次
+5. "develop分支的foo文件的第五行是谁修改的呢?"请用一个命令实现上述需求，并将这个命令片段存放到git-who文件中去。并提交这个修改。
+6. 将git-who这个文件修改一下。在每行的末尾添加"#@[name]"其中[name]表示名字的全拼，比如"#@chengxianfeng",提交修改。
+7. 将第5步和第6步的修改应用到develop分支。注意不能用合并，因为会把很多不相关的文件合并进去。提示: cherry-pick
+8. 推送你修改过的分支,注意保留别人的成果，不要删除。
+9. 请两位其他同学检查你的作业，听听他们的意见。
+10. 写邮件给Mars同学，邮件标题类比习题2，邮件正文详细描述你是如何做第7步的，还应该包括做审查同学的姓名和他们的具体意见。
